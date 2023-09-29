@@ -8,6 +8,7 @@ public class Test1 {
 		System.out.println("Hello!");
 		System.out.println("Hell!");
 		System.out.println("HelS!");
+		System.out.println("He!");
 	}
 
 }
